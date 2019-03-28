@@ -1,4 +1,4 @@
-package Practice;
+package flowcontrol;
 import java.util.Scanner;
 
 public class Color {

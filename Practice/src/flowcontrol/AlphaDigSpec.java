@@ -1,4 +1,4 @@
-package Practice;
+package flowcontrol;
 
 public class AlphaDigSpec {
 
