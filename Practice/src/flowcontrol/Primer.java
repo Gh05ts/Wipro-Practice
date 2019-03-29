@@ -21,7 +21,7 @@ public class Primer {
 			if(i == 2)
 				System.out.print(2);
 			else if(isPrime(i)) {
-				System.out.print(", "+i);
+				System.out.print(", " + i);
 
 			}
 	}
