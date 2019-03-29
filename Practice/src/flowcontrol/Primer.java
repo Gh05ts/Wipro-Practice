@@ -14,7 +14,7 @@ public class Primer {
 	
 	static void printPrime(int n) {
 		
-		for(int i = 2; i < n; i++)
+		for(int i = 2;i < n;i++)
 			if(i == 2)
 				System.out.print(2);
 			else if(isPrime(i)) {
