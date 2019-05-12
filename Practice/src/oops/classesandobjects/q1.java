@@ -1,6 +1,7 @@
-package oops;
+package oops.classesandobjects;
 
 class Box {
+	
 	private double width;
 	private double height;
 	private double depth;
@@ -15,6 +16,7 @@ class Box {
 		return width * height * depth;
 	}
 }
+
 public class q1 {
 	
 	public static void main(String[] args) {
